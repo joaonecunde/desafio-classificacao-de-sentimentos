@@ -131,7 +131,7 @@ python main.py
 
 ## Considerações Técnicas
 
-* O pré-processamento usa spaCy para português, mas utiliza NLTK como fallback caso spaCy não esteja disponível, garantindo maior robustez.
+* O pré-processamento usa spaCy para português.
 * O modelo de classificação é um Multinomial Naive Bayes, simples e eficiente para texto.
 * A vetorização é feita via TF-IDF para dar peso às palavras mais relevantes.
 * O código está organizado para ser claro, modular e fácil de entender, seguindo boas práticas.
