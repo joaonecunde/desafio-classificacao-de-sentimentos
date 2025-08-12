@@ -140,6 +140,6 @@ python main.py
 
 ## Contato
 
-\[[João Necunde](https://www.linkedin.com/in/joao-necunde/)]
+[João Necunde](https://www.linkedin.com/in/joao-necunde/)
 
 ---
